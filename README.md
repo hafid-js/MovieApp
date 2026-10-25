@@ -65,6 +65,7 @@ Example .env.example:
 
 dotenv
 MAPBOX_ACCESS_TOKEN=masukkan_token_mapbox_anda_disini
+(token public)
 
 
 
