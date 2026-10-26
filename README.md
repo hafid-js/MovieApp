@@ -76,6 +76,8 @@ Connect a device or start an emulator, then execute:
 bash
 flutter run
 
+Enter the longitude and latitude closest to Bundaran HI, Jakarta, using the Custom Location feature in the emulator.
+
 
 For iOS development, use macOS with Xcode and run the application on an iOS simulator or physical device.
 
